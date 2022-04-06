@@ -1,0 +1,6 @@
+sid,sname
+20200101,John
+20200102,Lili
+20200103,Bob
+20200104,Sindy
+20200105,Xiaoming
